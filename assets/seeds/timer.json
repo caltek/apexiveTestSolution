@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "project_id": 1,
+    "task_id": 1,
+    "total_duration": 30,
+    "remaining_duration": 30,
+    "status": 0,
+    "timer_type": 0,
+    "start_time": "2023-07-20 00:00:00",
+    "description": "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua" 
+  },
+  {
+    "id": 2,
+    "project_id": 1,
+    "task_id": 2,
+    "total_duration": 60,
+    "remaining_duration": 60,
+    "status": 0,
+    "timer_type": 0,
+    "start_time": "2023-07-20 00:00:00",
+    "description": "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua" 
+
+  },
+  {
+    "id": 1,
+    "project_id": 1,
+    "task_id": 2,
+    "total_duration": 60,
+    "remaining_duration": 60,
+    "status": 0,
+    "timer_type": 0,
+    "start_time": "2023-07-20 00:00:00",
+    "description": "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua" 
+
+  }
+]

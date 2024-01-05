@@ -1,0 +1,52 @@
+[
+  {
+      "id": 1,
+      "name": "SO123 - QuantumLeap V2",
+      "color": "FFFFC629"
+  },
+  {
+      "id": 2,
+      "name": "SO789 - InnovateHub V4",
+      "color": "FFAA33FF"
+  },
+  {
+      "id": 3,
+      "name": "SO456 - PixelCrafters V1",
+      "color": "FF9633FF"
+  },
+  {
+      "id": 4,
+      "name": "SO234 - BlueSky Project V3",
+      "color": "FF9933FF"
+  },
+  {
+      "id": 5,
+      "name": "SO567 - CodeWave V5",
+      "color": "FFB533FF"
+  },
+  {
+      "id": 6,
+      "name": "SO890 - DataInsight V2",
+      "color": "FFC733FF"
+  },
+  {
+      "id": 7,
+      "name": "SO345 - TechEvolve V1",
+      "color": "FF8233FF"
+  },
+  {
+      "id": 8,
+      "name": "SO678 - NebulaGen V4",
+      "color": "FF9D33FF"
+  },
+  {
+      "id": 9,
+      "name": "SO123 - Phoenix Rising V3",
+      "color": "FF9533FF"
+  },
+  {
+      "id": 10,
+      "name": "SO456 - BlueSky Project V5",
+      "color": "FFA533FF"
+  }
+]
